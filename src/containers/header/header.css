@@ -309,7 +309,7 @@
 
 
 /* XXX-Large devices (large desktops, TV's) */
-@media screen and (min-width: 2300px) {
+@media screen and (min-width: 2301px) {
 
   .header{
     justify-content: space-evenly;
