@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@300;700&display=swap');
+
+:root {
+    --font-family: 'Poppins', sans-serif;
+    --font-accent: 'Noto Serif', serif;
+
+    --color-bg: rgb(0, 0, 70);
+    --color-card: linear-gradient(250.14deg, rgba(0, 6, 159, 0.332) 0%, rgba(10, 0, 0, 0.4) 100%);
+
+}

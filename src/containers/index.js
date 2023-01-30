@@ -1,0 +1,6 @@
+export {default as Header} from './header/Header'
+export {default as Developers} from './developers/Developers'
+export {default as FindUs} from './findUs/FindUs'
+export {default as Footer} from './footer/Footer'
+export {default as Genesis} from './genesis/Genesis'
+export {default as Goal} from './goal/Goal'
